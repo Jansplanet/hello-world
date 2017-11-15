@@ -1,2 +1,3 @@
 # hello-world
 This is my first repository
+I've begun a journey where it will lead, I'm not sure...
